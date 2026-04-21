@@ -2,10 +2,6 @@
 
 A lightweight CRUD application built with Python and Flask to manage inventory efficiently.
 
-## 🔗 Navigation
-- [Application Logic](./pms/codes/app.py)
-- [HTML Templates](./pms/codes/templates/)
-
 ---
 
 ## 📸 Visual Walkthrough
@@ -38,4 +34,4 @@ Delete products from the database via unique ID.
 ## 🚀 How to Run
 1. Ensure you have Python installed.
 2. Navigate to the `codes` directory.
-3. Run `python app.py`.
+3. Run `python test.py`.
